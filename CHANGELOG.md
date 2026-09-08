@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.266
+
+- Updated to parity with Claude Code v2.1.266
+
 ## 0.3.265
 
 - Added `user_message_uuid` and `user_message_uuids` to a synthetic turn's first reply and result for a message sent with `isSynthetic: true` and a `uuid`, naming the message that started it
